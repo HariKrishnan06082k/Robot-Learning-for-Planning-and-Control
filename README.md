@@ -62,11 +62,6 @@ There's a small amount of noise on the applied action in the simulator, introduc
 
 ## Learning Uncertain Dynamics
 
-https://github.com/HariKrishnan06082k/Robot-Learning-for-Planning-and-Control/assets/78609830/202c56c8-64e7-49cf-b20f-ebbefcf13792
-
- of Panda Manipulator when performing planar pushing
-
-
 Planar Pushing task learned directly from images rather than having discrete state space information.
 
 ---

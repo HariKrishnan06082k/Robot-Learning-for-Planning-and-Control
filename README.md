@@ -124,6 +124,6 @@ A simplified version of Embed to Control (E2C) was implemented using a simple au
 * ✅ MPPI was implemented to 
 propagate the dynamics in image space where the cost associated was also in image space. 
 
-* ✅ MPPI will propagate the dyanamics in the latent space. Moreover, the cost function will be formulated in latent space, comparing how close states are to the goal in latent space.
+* ✅ MPPI was also implemented propagate the dyanamics in the latent space. Moreover, the cost function will be formulated in latent space, comparing how close states are to the goal in latent space.
 
 ---
